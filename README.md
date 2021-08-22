@@ -2,7 +2,9 @@
 A reskin of RedFalcons CH-47 Chinook model for DayZ standalone based on the work from https://github.com/RedFalconKen
 This is a free retexture for anybody to use.
 
-Helicopter scripts can be found at SIBNIC Moddayz https://github.com/moddayz
+Helicopter scripts can be found at SIBNIC Moddayz https://github.com/moddayz  
+Matching Raid Clothing can be found here  
+https://github.com/Nuttter/Raid_Clothing
 
 **Classnames**
 * Helichinook_RF_raid
